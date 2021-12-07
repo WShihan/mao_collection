@@ -57,18 +57,3 @@
 
 
 ![yunan_tin](./yunnan_TIN.jpg)
-
-![stu_distribution](stu_distribution.png)
-
-
-
-
-![yunnan](yunnan.png)
-
-<div align="center">没标题</div>
-
-![yunnan_light_night](./云南夜间灯光.jpg)
-
-
-
-![yunnan_TIN](./yunnan_TIN.jpg)
