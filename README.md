@@ -4,23 +4,23 @@
 
 ### 城市印象
 
-![beijing](beijing.jpeg)
+![北京故宫](beijing.jpeg)
 
 
 
-![hangzhhou](hangzhou.jpeg)
-
-
-
-
-
-![kunming](kunming.jpg)
+![杭州西湖](hangzhou.jpeg)
 
 
 
 
 
-![lijiang](lijaing.jpeg)
+![昆明滇池](kunming.jpg)
+
+
+
+
+
+![丽江古城](lijaing.jpeg)
 
 
 
@@ -30,19 +30,19 @@
 
 ### 其他
 
-![tumenjing](tumj.jpeg)
+![图们江流域（中国一侧）](tumj.jpeg)
 
 
 
 
 
-![2020_gaokao_pop](2020_gaokao_stu_pop.png)
+![2020年高考省市区分布三维图](2020_gaokao_stu_pop.png)
 
 
 
 
 
-![stu_distribution](stu_distribution.png)
+![X校地海学院学生分布](stu_distribution.png)
 
 
 
@@ -50,10 +50,13 @@
 
 
 
-![yunnan_night_light](./云南夜间灯光.jpg)
+![云南夜间灯光](./yunnan_night_light.jpg)
 
 
 
 
 
-![yunan_tin](./yunnan_TIN.jpg)
+![云南地形图_TIN](./yunnan_TIN.jpg)
+
+
+![玉龙雪山](./yulong.png)
