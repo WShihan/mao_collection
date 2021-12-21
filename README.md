@@ -1,10 +1,10 @@
-# map_collection
+# 地图集/Map_Collection
 
-地图，来自我。
+地图集合，包含日常做的一些地图，出于无聊或者好玩。
 
-Map, from me.
+Map Collection, contains map from me, made for fun, killtime.
 
-### 城市印象
+### 城市印象/City Image
 
 ![北京故宫](beijing.jpeg)
 
@@ -52,7 +52,7 @@ Map, from me.
 
 
 
-### DEM
+### 地形/DEM
 
 ![云南地形图_TIN](./yunnan_TIN.jpg)
 
