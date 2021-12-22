@@ -1,8 +1,8 @@
 # 地图集/Map_Collection
 
-地图集合，包含日常做的一些地图，出于无聊或者好玩。
+包含日常做的一些地图，出于无聊或者好玩。
 
-Map Collection, contains map from me, made for fun, killtime.
+Contains map made  from me, for fun, killtime.
 
 ### 城市印象/City Image
 
