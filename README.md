@@ -2,7 +2,7 @@
 
 包含日常做的一些地图，出于无聊或者好玩。
 
-Contains map made  from me, for fun, killtime.
+Contains map I made, for fun, killtime.
 
 ### 城市印象/City Image
 
