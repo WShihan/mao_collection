@@ -44,7 +44,7 @@ Contains map I made, for fun, killtime.
 
 
 
-![yunnan](yunnan.png)
+![云南](yunnan.png)
 
 
 
@@ -65,4 +65,16 @@ Contains map I made, for fun, killtime.
 
 
 
-![eldly_heatmap](eldly_heatmap.png)
+![北京市大兴区老年人口热力图](eldly_heatmap.png)
+
+
+
+![云南夜间灯光——乐高风格](Yn_light_lego.jpg)
+
+
+
+![旧莫地区建设用地及耕地分布](Jiumo_lucc.jpg)
+
+
+
+![云南省自然保护区](Yunnan_nature_reserve.jpg)
