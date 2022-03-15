@@ -78,3 +78,7 @@ Contains map I made, for fun, killtime.
 
 
 ![云南省自然保护区](Yunnan_nature_reserve.jpg)
+
+
+
+![2013年北极海冰密度变化](./2013年北极地区海冰密度变化.gif)
